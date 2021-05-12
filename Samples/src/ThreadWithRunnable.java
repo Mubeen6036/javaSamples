@@ -1,5 +1,5 @@
 
-public class ThreadExample {
+public class ThreadWithRunnable {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
