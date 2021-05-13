@@ -10,7 +10,11 @@ public class ThreadWithCallable {
 			return 1;
 		};
 		
-
+<<<<<<< HEAD
+		Integer f = g.call();  
+=======
+		Integer f = g.call(); 
+>>>>>>> branch1
 		System.out.println(f);
 	}
 
