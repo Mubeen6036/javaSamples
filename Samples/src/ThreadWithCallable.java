@@ -10,7 +10,7 @@ public class ThreadWithCallable {
 			return 1;
 		};
 		
-
+		Integer f = g.call();  
 		System.out.println(f);
 	}
 
